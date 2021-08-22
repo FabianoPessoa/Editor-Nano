@@ -5,3 +5,4 @@
 set constantshow
 set linenumbers
 set tabsize 2
+set nowrap
