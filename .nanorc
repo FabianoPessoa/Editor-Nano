@@ -1,0 +1,7 @@
+# Coloque esse codigo dentro da home
+# $ cd ~
+# $ nano .nanorc
+#
+set constantshow
+set linenumbers
+set tabsize 2
