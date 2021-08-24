@@ -1,4 +1,10 @@
 # ######################################################### #
+#           Metodo para instalar o navegador                #
+# ######################################################### #
+$ sudo apt-get update
+$ sudo apt-get -f install firefox
+
+# ######################################################### #
 # script shell para instalac,a'o do navegador firefox 32    #
 # ######################################################### #
 sudo apt-get update
